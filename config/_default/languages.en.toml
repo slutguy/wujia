@@ -19,7 +19,7 @@ title = "Blowfish"
   email = "youremail@example.com"
   image = "img/blowfish_logo.png"
   imageQuality = 96
-  headline = "I'm only human"
+  headline = "Welcome to Wu-Jia"
   bio = "A little bit about you"
    links = [
 #     { email = "mailto:hello@your_domain.com" },
@@ -70,7 +70,7 @@ title = "Blowfish"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-     { youtube = "https://youtube.com/username" },
+#     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
    ]
