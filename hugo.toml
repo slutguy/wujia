@@ -1,9 +1,0 @@
-# config/_default/hugo.toml
-
-baseURL = "https://wujia.vercel.app/"
-languageCode = "en"
-
-# config/_default/params.toml
-
-colorScheme = "blowfish"
-
