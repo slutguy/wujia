@@ -2,22 +2,22 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Home"
 
 [params]
-  displayName = "EN"
+  displayName = "English"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/blowfish_logo_transparent.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Wu-Jia is on the world!"
+  name = "Wu-Jia Han Hsiaohan"
   email = "volt@example.com"
-  image = "img/blowfish_logo.png"
+  image = "img/han.jpg"
   imageQuality = 96
   headline = "Welcome to Wu-Jia"
   bio = "A little bit about you"
@@ -70,7 +70,7 @@ title = "Blowfish"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-     { youtube = "https://youtube.com/Naval P" },
+     { youtube = "https://youtu.be/dQw4w9WgXcQ?si=eG41rfESEeAFBBde" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
    ]
