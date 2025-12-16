@@ -5,10 +5,10 @@
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>volt@example.com (Wu-Jia Han Hsiaohan)</managingEditor>
-    <webMaster>volt@example.com (Wu-Jia Han Hsiaohan)</webMaster>
-    <copyright>© 2025 Wu-Jia Han Hsiaohan</copyright>
+    <language>zh-cn</language>
+    <managingEditor>volt@example.com (五家形象大使韩小寒)</managingEditor>
+    <webMaster>volt@example.com (五家形象大使韩小寒)</webMaster>
+    <copyright>© 2025 五家形象大使韩小寒</copyright>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>

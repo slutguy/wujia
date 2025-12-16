@@ -5,20 +5,20 @@
     <link>http://localhost:1313/posts/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>volt@example.com (Wu-Jia Han Hsiaohan)</managingEditor>
-    <webMaster>volt@example.com (Wu-Jia Han Hsiaohan)</webMaster>
-    <copyright>© 2025 Wu-Jia Han Hsiaohan</copyright>
+    <language>zh-cn</language>
+    <managingEditor>volt@example.com (五家形象大使韩小寒)</managingEditor>
+    <webMaster>volt@example.com (五家形象大使韩小寒)</webMaster>
+    <copyright>© 2025 五家形象大使韩小寒</copyright>
     <lastBuildDate>Wed, 10 Dec 2025 15:57:03 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>韩小寒</title>
+      <link>http://localhost:1313/posts/han-tutorial/</link>
       <pubDate>Wed, 10 Dec 2025 15:57:03 +0800</pubDate>
-      <author>volt@example.com (Wu-Jia Han Hsiaohan)</author>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <author>volt@example.com (五家形象大使韩小寒)</author>
+      <guid>http://localhost:1313/posts/han-tutorial/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/han-tutorial/featured.jpg" />
     </item>
     
   </channel>
