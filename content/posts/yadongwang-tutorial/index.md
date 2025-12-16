@@ -7,3 +7,5 @@ draft = false
 
 ### 简介 
 
+![](https://github.com/slutguy/wujia/blob/master/public/img/p.jpg?raw=true)
+
