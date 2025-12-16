@@ -3,4 +3,4 @@ title = 'zhong'
 date = 2025-12-10T16:04:10+08:00
 +++
 
-Welcom to my website!
+五家子大舞台欢迎你的加入!
